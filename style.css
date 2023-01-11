@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+}
+body{
+    background: url("bg1.jfif");
+    background-size: cover;
+
+}
+.disp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gif{
+    height:70px;
+    width:120px;
+    margin:20px;
+}
+.play{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0px;
+
+}
+
+.black{
+    color: white;
+    background-image: url("b.jpg");
+    height:20vh;
+    width:10vh;
+    border-radius: 10px;
+    border: 2px;
+    border-color: black;
+    margin:1vh 0.6vw ;
+
+}
+.white{
+    background-image: url("w.jpg");
+    height: 20vh;
+    width:10vh;
+    border-radius: 10px;
+    border: 2px;
+    border-color: black;
+    margin:1vh 0.6vw ;
+}
+.patt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-top: 3vh;
+
+}
+.patt2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3vh;
+
+}
+.green{
+    color: white;
+    background-image: url("g2.jpg");
+    height:10vh;
+    width:20vh;
+    border-radius: 10px;
+    border: 2px;
+    border-color: black;
+    margin:0 4vw ;
+}
+.sharp{
+    margin-top: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.w{
+    margin-left: 9%;
+}
+.e{
+    margin-right:4% ;
+}
+.t{
+    margin-left: 4%;;
+}
+.u{
+    margin-right:10%;
+}
+.press{
+    box-shadow: 0 6px 8px 0 #54ff9e;
+  opacity: 0.5;
+}
+.o{
+    margin-left:0;
+}
+.p{
+    margin-right:6% ;
+}
+.Numpad7{
+    margin-right:15% ;
+}
+.BracketRight{
+    margin-left: 2%;
+}
